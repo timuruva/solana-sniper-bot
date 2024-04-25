@@ -1,4 +1,4 @@
-# AxisBot Solana Sniper v1.0
+# AxisBot Solana Sniper v1.0 
 
 ![](https://github.com/timuruva/solana-sniper-bot/blob/3b6f00d4968ad49370533126d6fa428c1eeca983/Files/banner.png)
 
