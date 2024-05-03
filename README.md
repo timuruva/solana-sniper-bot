@@ -96,7 +96,7 @@ Below are our two main plans:
 
 1. One-time payment.
 2. Updates and fixes will be released at least once a week.
-3. 15% off with promo code "APRIL".
+3. -15% with promo code "MAY".
 
 **Lifetime** : https://app.hel.io/pay/6626e8e41840857d87b8d32a
 
