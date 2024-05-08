@@ -13,6 +13,7 @@ Observing market trends, we noticed a rising interest in token sniping, initiall
 **Our Official Website** : https://axisbot.xyz
 
 **Future Updates** : https://x.com/axisniper/status/1783495040104280107
+**Users** : 38
 
 
 ![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/macsite.png)
