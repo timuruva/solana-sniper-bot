@@ -14,7 +14,7 @@ Observing market trends, we noticed a rising interest in token sniping, initiall
 
 **Future Updates** : https://x.com/axisniper/status/1783495040104280107
 
-**Active Users** : 38
+**Active Users** : 41
 
 
 ![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/macsite.png)
@@ -91,16 +91,26 @@ Below are our two main plans:
 
 1. You can test the bot, try the functionality.
 2. Provided in the format of a subscription for 1 month, after the expiration of the subscription period the bot will be disabled.
+3. 3. -15% with promo code "AXIS".
+4. 0.4 SOL
 
-**Month** : https://app.hel.io/s/6626e7d8172c06d56352fae1
+**Month** : https://app.hel.io/pay/663e178abcab89f49f95d889
 
 **ULTIMATE**
 
 1. One-time payment.
 2. Updates and fixes will be released at least once a week.
 3. -15% with promo code "MAY".
+4. 0.8 SOL
 
 **Lifetime** : https://app.hel.io/pay/6626e8e41840857d87b8d32a
+
+**RPC**
+
+1. Provided in the format of a subscription for 1 month, after the expiration of the subscription period the RPC will be disabled.
+2. 0.2 SOL
+
+**Month** : https://app.hel.io/pay/6626e8e41840857d87b8d32a
 
 ----------------------------------
 
