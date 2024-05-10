@@ -91,7 +91,7 @@ Below are our two main plans:
 
 1. You can test the bot, try the functionality.
 2. Provided in the format of a subscription for 1 month, after the expiration of the subscription period the bot will be disabled.
-3. 3. -15% with promo code "AXIS".
+3. -15% with promo code "AXIS".
 4. 0.4 SOL
 
 **Month** : https://app.hel.io/pay/663e178abcab89f49f95d889
