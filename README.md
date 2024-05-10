@@ -110,7 +110,7 @@ Below are our two main plans:
 1. Provided in the format of a subscription for 1 month, after the expiration of the subscription period the RPC will be disabled.
 2. 0.2 SOL
 
-**Month** : https://app.hel.io/pay/6626e8e41840857d87b8d32a
+**Month** : https://app.hel.io/s/663e16bfbf2936ab96ab53a0
 
 ----------------------------------
 
